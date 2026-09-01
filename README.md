@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/FeriCodes/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/FeriCodes/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/FeriCodes/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0414-third-maximum-number](https://github.com/FeriCodes/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [2942-find-words-containing-character](https://github.com/FeriCodes/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/FeriCodes/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/FeriCodes/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/FeriCodes/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 ## Quicksort
 |  |
 | ------- |
